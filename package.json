@@ -1,6 +1,6 @@
 {
   "name": "unique-id.ts",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "commonjs",
   "description": "Generate unique IDs with customizable charset",
   "keywords": [
