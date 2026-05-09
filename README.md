@@ -1,6 +1,6 @@
 # unique-id.ts
 
-TypeScript library for generating unique IDs using customizable character sets.
+Generate unique IDs with customizable charset.
 
 [![npm Package Version](https://img.shields.io/npm/v/unique-id.ts)](https://www.npmjs.com/package/unique-id.ts)
 [![Minified Package Size](https://img.shields.io/bundlephobia/min/unique-id.ts)](https://bundlephobia.com/package/unique-id.ts)

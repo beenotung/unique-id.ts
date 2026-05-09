@@ -2,8 +2,18 @@
   "name": "unique-id.ts",
   "version": "0.0.0",
   "type": "commonjs",
-  "description": "",
-  "keywords": [],
+  "description": "Generate unique IDs with customizable charset",
+  "keywords": [
+    "unique-id",
+    "id-generator",
+    "uuid",
+    "nanoid",
+    "base58",
+    "base32",
+    "base64",
+    "charset",
+    "typescript"
+  ],
   "author": {
     "name": "Beeno Tung",
     "email": "aabbcc1241@yahoo.com.hk",
