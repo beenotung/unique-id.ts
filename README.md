@@ -8,10 +8,10 @@ Generate unique IDs with customizable charset.
 
 ## Features
 
+- Collision-free ID generation with automatic length increase
+- 6 built-in charsets: base10, base26, base32, base36, base58, base64
 - TypeScript support
 - Isomorphic package: works in Node.js and browsers
-- 6 built-in charsets: base10, base26, base32, base36, base58, base64
-- Collision-free ID generation with automatic length increase
 
 ## Installation
 
